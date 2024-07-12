@@ -69,6 +69,7 @@ C. Time discretization
  
 
 To deal any problem, the time derivative must be dealt with. To do this we apply the -method to the mixed weak form of equation: 
+![image](https://github.com/user-attachments/assets/f083f68c-79a2-4065-9d88-2af6a2551a9d)
 
  
 
